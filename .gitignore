@@ -1,0 +1,18 @@
+# Mengabaikan file tertentu
+# secret_config.py
+# credentials.txt
+
+# Mengabaikan direktori
+/env_das/
+/.ipynb_checkpoints/
+/__pycache__/
+/das_env/
+
+
+# Mengabaikan file sementara
+*.log
+*.tmp
+
+# # Mengabaikan file dari editor atau IDE tertentu
+# .vscode/
+# .idea/
