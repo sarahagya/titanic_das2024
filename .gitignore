@@ -3,10 +3,10 @@
 # credentials.txt
 
 # Mengabaikan direktori
-/env_das/
+/env_titanic/
 /.ipynb_checkpoints/
 /__pycache__/
-/das_env/
+
 
 
 # Mengabaikan file sementara
